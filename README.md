@@ -6,5 +6,5 @@ data link:
 put text.db t0 databse
 put laws_data_chunk.jsonl to data
 
-# Start
+# 3. Start
 RUN pipline/pipline.py
