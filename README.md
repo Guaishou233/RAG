@@ -5,3 +5,6 @@ Downloads ChatLaw-Text2Vec and bge-reranker-v2-m3 from huggingface. Then store t
 data link:
 put text.db t0 databse
 put laws_data_chunk.jsonl to data
+
+# Start
+RUN pipline/pipline.py
